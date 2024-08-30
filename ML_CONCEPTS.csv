@@ -1,0 +1,33 @@
+Title,Concept
+Linear Regression,A statistical method for modeling the relationship between a dependent variable and one or more independent variables by fitting a linear equation to observed data.
+Logistic Regression,A regression model used for binary classification that estimates probabilities using a logistic function.
+Decision Tree,A model that makes decisions based on answering a series of questions  leading to a decision or prediction.
+Random Forest,A machine learning method that creates a 'forest' of decision trees and merges them to improve classification accuracy and control over-fitting.
+Support Vector Machine (SVM),A supervised learning model that finds the hyperplane which best separates different classes in a high-dimensional space.
+K-Nearest Neighbors (KNN),A classification algorithm that assigns the class of a data point based on the majority class among its k nearest neighbors.
+Naive Bayes,A probabilistic classifier based on Bayes' theorem with an assumption of independence among predictors.
+Neural Network,A network of interconnected nodes (neurons) organized in layers that can learn to recognize patterns through training.
+Deep Learning,A subset of machine learning involving neural networks with many layers (deep networks) that can model complex patterns in large data sets.
+Gradient Descent,An optimization algorithm used to minimize the cost function by iteratively adjusting parameters in the direction of the negative gradient.
+Overfitting,A modeling error that occurs when a machine learning model learns the training data too well  capturing noise and leading to poor generalization to new data.
+Underfitting,A situation where a model is too simple to capture the underlying structure of the data  resulting in poor performance on both training and test data.
+Cross-Validation,A technique used to evaluate the performance of a model by partitioning the data into training and validation sets multiple times.
+Hyperparameter Tuning,The process of optimizing the hyperparameters of a model to improve its performance on a given task.
+Feature Engineering,The process of using domain knowledge to create new features or modify existing ones to improve the performance of a machine learning model.
+Dimensionality Reduction,Techniques used to reduce the number of features in a dataset while preserving as much information as possible.
+Principal Component Analysis (PCA),A technique for reducing the dimensionality of data by transforming to a new set of variables (principal components) that capture the most variance.
+t-Distributed Stochastic Neighbor Embedding (t-SNE),A technique for dimensionality reduction that is particularly well-suited for visualizing high-dimensional data in two or three dimensions.
+K-Means Clustering,A clustering algorithm that partitions data into k clusters by minimizing the variance within each cluster.
+Hierarchical Clustering,A clustering method that builds a hierarchy of clusters either through agglomerative or divisive approaches.
+Gaussian Mixture Model (GMM),A probabilistic model that assumes all data points are generated from a mixture of several Gaussian distributions.
+Expectation-Maximization (EM),An iterative algorithm used to find maximum likelihood estimates of parameters in probabilistic models  often used with GMM.
+Reinforcement Learning,A type of machine learning where an agent learns to make decisions by performing actions and receiving rewards or penalties.
+Q-Learning,A model-free reinforcement learning algorithm that learns the value of an action in a given state to maximize cumulative reward.
+Deep Q-Network (DQN),A type of reinforcement learning algorithm that uses deep neural networks to approximate the Q-values of actions.
+Generative Adversarial Networks (GANs),A framework where two neural networks  a generator and a discriminator
+Autoencoders,Neural networks used for unsupervised learning of efficient codings  often used for dimensionality reduction or feature learning.
+Convolutional Neural Networks (CNNs),A class of deep neural networks specifically designed for processing grid-like data such as images by using convolutional layers.
+Recurrent Neural Networks (RNNs),A class of neural networks designed for sequential data where connections between nodes can create cycles  allowing for temporal dependencies.
+Long Short-Term Memory (LSTM),A type of RNN that includes mechanisms to retain long-term dependencies and avoid the vanishing gradient problem.
+Transfer Learning,The practice of taking a pre-trained model on one task and adapting it to a related but different task.
+Few-Shot Learning,
